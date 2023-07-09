@@ -33,19 +33,19 @@
          url("https://cdn.jsdelivr.net/gh/websfont/dongle/dongle-Bold.ttf") format("truetype");
     font-display: swap;
 }
-.gowunDodum {
-    font-family: "gowunDodum";
+.dongle {
+    font-family: "dongle";
 }
-.gowunDodum300 {
-    font-family: "gowunDodum";
+.dongle300 {
+    font-family: "dongle";
     font-weight: 300;
 }
-.gowunDodum400 {
-    font-family: "gowunDodum";
+.dongle400 {
+    font-family: "dongle";
     font-weight: 400;
 }
-.gowunDodum700 {
-    font-family: "gowunDodum";
+.dongle700 {
+    font-family: "dongle";
     font-weight: 700;
 }
 </pre>
